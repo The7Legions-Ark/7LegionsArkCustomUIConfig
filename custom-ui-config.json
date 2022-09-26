@@ -1,0 +1,114 @@
+{
+    "ServerName": "The 7 Legions",
+    "ButtonTxt1": "About",
+    "ButtonTxt2": "Rules",
+    "ButtonTxt3": "Team",
+    "ButtonTxt4": "Help",
+    "LinkButtonTxt1": "Website",
+    "LinkButtonTxt2": "Discord",
+    "LinkButtonTxt3": "",
+    "LinkButtonTxt4": "",
+    "LinkButtonTxt5": "",
+    "LinkButton1": "https://the7legions.org/",
+    "LinkButton2": "https://discord.gg/the7legions",
+    "LinkButton3": "",
+    "LinkButton4": "",
+    "LinkButton5": "",
+    "Tab1Panelcount": 2,
+    "Tab2Panelcount": 3,
+    "Tab3Panelcount": 2,
+    "Tab4Panelcount": 1,
+    "Tab5Panelcount": 1,
+    "BackgroundTab1": 0,
+    "BackgroundTab2": 1,
+    "BackgroundTab3": 2,
+    "BackgroundTab4": 3,
+    "Background1Color": "0,0,0,0.5",
+    "Background2Color": "0,0,0,0.5",
+    "Background3Color": "0,0,0,0.5",
+    "Background4Color": "0,0,0,0.5",
+    "FontColorButtons": "255,255,255",
+    "FontColorServerName": "240,0,0",
+    "FontColorTabTitles": "0,0,240",
+    "FontColorTabText": "255,255,255",
+    "UseSteamBrowserLink1": false,
+    "UseSteamBrowserLink2": false,
+    "Tab1Title1": "Upcoming Events",
+    "Tab1Title2": "The 7 Legions",
+    "Tab2Title1": "Civility",
+    "Tab2Title2": "Building",
+    "Tab2Title3": "World",
+    "Tab3Title1": "Our Team",
+    "Tab3Title2": "Join Us",
+    "Tab4Title1": "Help and Support",
+    "Tab1Text1": "[2022-09-26] Sit tight. We are brand new at this. More to come.",
+    "Tab1Text2": "Welcome to The 7 Legions!
+
+Our servers provide a familiar Ark experience, featuring combat, dino taming, map exploration, crafting, base building, and the thrill of discovery, all while aiming to improve quality of life for all of our players. Overall, our servers are configured to offer a relaxed gaming experience, with experience rates, harvest rates, engram points, taming/eggs/maturation/mating rates, and much more tweeked for your enjoyment. In addition, enjoy our 7 Legions ARK cluster, featuring:
+
+* Ragnarok
+* Event Map
+* The Island
+* Fjordur
+* Abberation
+* Crystal Isles
+* Genesis 2
+
+We hope you enjoy your time with us! Have fun!",
+    "Tab2Text1": "While playing on our servers, we ask that you respect others and maintain a mature attitude.
+
+1) Stay frosty: Do not insult, scam, shit talk, or troll others. Do not bring up controversial topics in global or public channels. Also, always ask if a controversial topic is ok before bringing it up even in private channels.
+
+2) No trolls allowed. No intentional trolling, feigning idiocy, shitposting, or blatant lying. We are a community of people with similar interests just here to have a good time. We do not condone abusive behavior. This is not the place for trying to get a rise out of others.
+
+3) Do not DM our team members. We have a support ticket system in place on our Discord server. Visit us there and submit a ticket to ask for help.
+
+4) No doxxing: We do not allow distribution of ANYONE's sensitive or personal information.
+
+5) Use appropriate survivor names. No blank names, no long names, no URL names, and no non-ASCII Unicode characters in names. Names that contain non-standard characters or emojis are subject to admin name change.
+
+6) No advertising. No referral links. No buying/selling/trading anything for real life goods or money.
+
+7) We do not allow players to use our platform to send others invitations to other Discord servers, game communities, or game servers.
+
+8) Use common sense. If you're doing something you think is wrong, it probably is and will probably get you some attention from the admins.
+
+9) Use English in global chat. If you need to speak another language, use whisper, tribe, or alliance chat.",
+    "Tab2Text2": "1) Base size limit is 50x50.
+
+2) No pillaring or foundation stacking.
+
+3) No building in artifact caves or blocking cave entrances with your base. This includes placing teleports--no teleports allowed in artifact caves or cave entrances.
+
+4) Your base should be outside the render range of anyone else's base.",
+    "Tab2Text3": "1) All players must be a member of a tribe. Solo players must create a tribe in order to fulfill this requirement.
+
+2) If you are a member of our Discord server, your Discord server nickname must be the same as your ARK survivor name.
+
+3) If running from dinos that are attacking you, do not run near another tribe's base. You will be held responsible for damage caused to another tribe's base.",
+    "Tab3Text1": "Meet The 7 Legions ARK team!
+
+[ARK HEAD ADMIN]
+Lily Otter
+
+[ARK ADMINS]
+
+[ARK MODS]
+
+[7 LEGIONS HEAD DEVELOPER]
+Trenyc
+
+[ARK DEVELOPERS]",
+    "Tab3Text2": "We're recruiting!
+
+To apply to join our team, visit us on Discord at https://discord.gg/the7legions. There, type /apply in the #recruitment-info channel. You'll receive a message from our Application Bot which will guide you through the application process.",
+    "Tab3Text3": "",
+    "Tab4Text1": "If you're having trouble in the game or another player is harassing you, please visit our Discord server at https://discord.gg/the7legions. There, you can submit a support ticket using our support-ticket channel.
+
+When submitting a support ticket, please be clear about your issue. Additionally, if another player is harassing you, please collect evidence of the harassment when making your claim. This will allow us to more easily investigate.",
+    "Tab4Text2": "",
+    "Tab4Text3": "",
+    "Tab5Text1": "",
+    "Tab5Text2": "",
+    "Tab5Text3": ""
+}
