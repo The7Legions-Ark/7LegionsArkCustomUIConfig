@@ -36,8 +36,9 @@
     "Tab1Title1": "Upcoming Events",
     "Tab1Title2": "The 7 Legions",
     "Tab2Title1": "Civility",
-    "Tab2Title2": "Building",
-    "Tab2Title3": "World",
+    "Tab2Title2": "VIP",
+    "Tab2Title3": "Building",
+    "Tab2Title4": "World",
     "Tab3Title1": "Our Team",
     "Tab3Title2": "Join Us",
     "Tab4Title1": "Help and Support",
@@ -74,7 +75,11 @@ We hope you enjoy your time with us! Have fun!",
 8) Use common sense. If you're doing something you think is wrong, it probably is and will probably get you some attention from the admins.
 
 9) Use English in global chat. If you need to speak another language, use whisper, tribe, or alliance chat.",
-    "Tab2Text2": "1) Each tribe is limited to one main base up to 50x50 and one water breeding platform up to 20x20.
+    "Tab2Text2": "1) VIP players receive thank you gifts from our team after donating. These thank you gifts are meant to be just that: a way of saying thank you to the player who made the donation. However, ARK has several game features which enable VIP donators to utilize some of thank you gifts to potentially produce dinos or resources for other players at no cost to the VIP player. Please understand that this is not allowed. Therefore the following rules apply to VIP-related items and dinos unless otherwise noted:
+| - VIP players are allowed to breed VIP Exclusive dinos when the chance to do so comes around, but the offspring of a VIP Exclusive dino is also considered VIP Exclusive and MAY NOT be shared with other players
+| - VIP players MAY share any base furnishings they may have received as a thank you gift with tribe mates only
+| - All other VIP items or VIP Exclusive items may ONLY be used by the VIP player who originally received them",
+    "Tab2Text3": "1) Each tribe is limited to one main base up to 50x50 and one water breeding platform up to 20x20.
 
 2) No pillaring or foundation spamming.
 
@@ -83,7 +88,7 @@ We hope you enjoy your time with us! Have fun!",
 4) Your base should be outside the render range of anyone else's base.
 
 5) Building on the Event Map is NOT ALLOWED.",
-    "Tab2Text3": "1) All players must be a member of a tribe. Solo players must create a tribe in order to fulfill this requirement.
+    "Tab2Text4": "1) All players must be a member of a tribe. Solo players must create a tribe in order to fulfill this requirement.
 
 2) If you are a member of our Discord server, your Discord server nickname must be the same as your ARK survivor name.
 
